@@ -4,5 +4,5 @@
 #'
 #'@name praatManipulationR
 #'@docType package
-#'@import R6
+#'@import R6 stringr
 NULL
